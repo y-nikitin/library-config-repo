@@ -1,0 +1,3 @@
+app:
+  cache-ttl: 15
+  debug-enabled: true
