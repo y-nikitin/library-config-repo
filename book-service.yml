@@ -4,4 +4,4 @@ server:
 app:
   service-name: book-service
   cache-ttl: 60
-  message: Hello from Config Server 2.0
+  message: Hello from Config Server
